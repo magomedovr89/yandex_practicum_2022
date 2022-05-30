@@ -12,4 +12,6 @@
 
 Задача
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+
+
+[![GitHub issues](https://img.shields.io/github/issues/magomedovr89/yandex_practicum_data_science?style=for-the-badge)](https://github.com/magomedovr89/yandex_practicum_data_science/issues)
